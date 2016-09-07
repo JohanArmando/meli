@@ -18,3 +18,6 @@ Route::get('/', function () {
 Route::get('/meli', function () {
     return 'Api mercadolibre';
 });
+Route::get('/meliDos', function () {
+    return 'Api mercadolibre';
+});
