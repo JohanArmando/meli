@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    MELI REBASE 
+                    PROYECTO DE TEST API MERCADOLIBRE 
                 </div> 
                 <p>Otro mas</p>
                 <div class="links">
